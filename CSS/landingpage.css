@@ -95,6 +95,7 @@ nav .navbar-nav li a:hover {
 }
 
 @media only screen and (max-width: 600px) {
+
     body {
         background-image: url("../Images/luckyCatBackgroundMobile-01.svg");
         background-position: center;
@@ -131,6 +132,22 @@ nav .navbar-nav li a:hover {
 
     #mainNavbar {
         background-color: white;
+    }
+
+}
+
+@media only screen and (max-width: 1920px) {
+
+    #exhibitText {
+        font-size: 40px;
+    }
+
+    #exhibitTitle {
+        font-size: 50px;
+    }
+
+    #exhibitSubTitle {
+        font-size: 45px;
     }
 
 }
