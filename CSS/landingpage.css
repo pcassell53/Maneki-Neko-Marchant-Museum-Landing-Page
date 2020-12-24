@@ -136,7 +136,7 @@ nav .navbar-nav li a:hover {
 
 }
 
-@media only screen and (min-height: 1080px) {
+@media only screen and (max-height: 1080px) {
 
     #exhibitText {
         font-size: 30px;
