@@ -23,3 +23,4 @@ AOS.init({
     delay: 300,
     disable: 'mobile'
 });
+
