@@ -41,11 +41,11 @@ body {
 }
 
 #catImage {
-    margin-top: 80px;
+    margin-top: 110px;
 }
 
 #leftText {
-    margin-top: 95px;
+    margin-top: 130px;
     margin-left: 30px;
     /* border: 5px solid #A22522;
     border-radius: 10px;
@@ -100,6 +100,16 @@ nav .navbar-nav li a:hover {
 
 #mainNavbar > div > div.d-flex.flex-nowrap.w-100 > button {
     border-color: white;
+}
+
+@-moz-document url-prefix() { 
+    #catIllustration {
+       width: 245px;
+    }
+    
+    #marchantLogo {
+        width: 245px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
