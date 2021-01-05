@@ -41,11 +41,11 @@ body {
 }
 
 #catImage {
-    margin-top: 110px;
+    margin-top: 125px;
 }
 
 #leftText {
-    margin-top: 130px;
+    margin-top: 145px;
     margin-left: 30px;
     /* border: 5px solid #A22522;
     border-radius: 10px;
@@ -103,9 +103,6 @@ nav .navbar-nav li a:hover {
 }
 
 @-moz-document url-prefix() { 
-    #catIllustration {
-       width: 245px;
-    }
     
     #marchantLogo {
         width: 245px;
